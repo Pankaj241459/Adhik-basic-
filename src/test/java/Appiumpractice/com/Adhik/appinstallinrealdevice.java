@@ -12,6 +12,7 @@ public class appinstallinrealdevice {
 	public static void main(String[] args) throws Exception {
 
         UiAutomator2Options options = new UiAutomator2Options();
+        //change for git
 
         // Android
         options.setPlatformName("Android");
